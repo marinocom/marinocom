@@ -2,4 +2,4 @@
 
 
 
-AI Student, sometimes I host hackathons
+AI Student
