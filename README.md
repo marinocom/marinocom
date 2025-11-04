@@ -2,4 +2,4 @@
 
 
 
-AI Student
+AI Student - Researcher at CVC
