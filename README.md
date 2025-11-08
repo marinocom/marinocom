@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <h3 style="margin-bottom: 5px;">Research Interests</h3>
+  <h4 style="margin-bottom: 5px;">Research Interests</h4>
   <p style="margin-top: 0;">
     <code>Cryptanalysis</code>
     <code>Computer Vision</code>
