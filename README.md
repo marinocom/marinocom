@@ -7,5 +7,5 @@
 AI Student - Researcher at CVC
 
 <div align="center">
-  <img src="https://skyline.github.com/YOUR_USERNAME/2024.png" alt="GitHub Skyline" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" alt="Spotify Now Playing" />
 </div>
