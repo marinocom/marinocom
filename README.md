@@ -49,6 +49,3 @@
     </a>
   </p>
 </div>
-
-
-can you make all texts courier?
