@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Research+at+Computer+Vision+Center&repeat=false&height=25" alt="Research" />
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=9ACD32&center=true&vCenter=true&width=600&lines=Exchange+Student+at+Kyoto+University&repeat=false&height=25" alt="Exchange" />
 </div>
+
+<br>
 <br>
 
 <div align="center" style="width: 400px; margin: 0 auto;">
