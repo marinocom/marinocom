@@ -8,7 +8,7 @@
 <div align="center">
   <table>
     <tr>
-      <td style="font-family: 'Courier New', Courier, monospace;">
+      <td>
         > Researching direct handwritten cipher decryption as part of the DECRYPT project<br>
         > Worked on early sepsis detection in babies using thermal imaging & computer vision<br>
         > Rosa Sensat talent scholarship recipient for research at the Computer Vision Center<br>
@@ -21,8 +21,8 @@
   </table>
 </div>
 <div align="center">
-  <h4 style="margin-bottom: 0px; font-family: 'Courier New', Courier, monospace;">Research Interests</h4>
-  <p style="margin-top: 0; font-family: 'Courier New', Courier, monospace;">
+  <h4 style="margin-bottom: 0px;">Research Interests</h4>
+  <p style="margin-top: 0;">
     <code>Cryptanalysis</code>
     <code>Computer Vision</code>
     <code>Graph Neural Networks</code>
@@ -49,3 +49,6 @@
     </a>
   </p>
 </div>
+
+
+can you make all texts courier?
