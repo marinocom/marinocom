@@ -24,10 +24,10 @@
   </table>
 </div>
 
+<br>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?font=Courier" alt="Jokes Card" width="600" />
 </div>
-
 
 <div align="center">
   <p>
