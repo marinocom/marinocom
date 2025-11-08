@@ -25,8 +25,8 @@
 
 
 <div align="center">
-  <h4>Research Interests</h4>
-  <p>
+  <h3 style="margin-bottom: 5px;">Research Interests</h3>
+  <p style="margin-top: 0;">
     <code>Cryptanalysis</code>
     <code>Computer Vision</code>
     <code>Graph Neural Networks</code>
@@ -36,7 +36,9 @@
     <code>AI Policy</code>
   </p>
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?font=Courier" alt="Jokes Card" width="600" />
 </div>
