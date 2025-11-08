@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <h4>*Research Interests*</h4>
+  <h3>» Research Interests</h3>
   <p>
     <code>Cryptography</code>
     <code>Computer Vision</code>
