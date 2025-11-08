@@ -5,7 +5,7 @@
 <div align="center" style="width: 600px; margin: 0 auto;">
   <p>🔬 AI Research | 🧠 Machine Learning | 🔐 Cryptography</h3>
   <p>Final-year CS/AI student at UAB conducting research on handwritten cipher decryption at CVC</p>
-  <p>----------------------------------------------------------------------------</p>
+  <p>-------------------------------------------------------------------------------</p>
 </div>
 
 <div align="center">
