@@ -24,17 +24,8 @@
 </div>
 
 
-<div align="center">
-  <h4>» Research Interests</h4>
-  <p style="max-width: 400px; margin: 0 auto;">
-    <code>Cipher Decryption</code>
-    <code>Medical Imaging</code>
-    <code>Graph Neural Networks</code>
-    <code>Document Analysis</code>
-    <code>Graph Representation Learning</code>
-    <code>AI Policy</code>
-  </p>
-</div>
+   
+
 <br>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?font=Courier" alt="Jokes Card" width="600" />
