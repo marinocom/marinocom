@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Marino+Oliveros+Blanco&repeat=false&height=25" alt="Name" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=BSc+Artificial+Intelligence+%7C+UAB&repeat=false&height=25" alt="Title" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=ML+Researcher+%40+CVC+%7C+Kyoto+University&repeat=false&height=25" alt="Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Marino+Oliveros+Blanco&repeat=false&height=25" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=BSc+Artificial+Intelligence+%7C+UAB&repeat=false&height=25" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=50C878&center=true&vCenter=true&width=800&lines=ML+Researcher+%40+CVC+%7C+Kyoto+University&repeat=false&height=25" alt="Work" />
 </div>
 <br>
 
