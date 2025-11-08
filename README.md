@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Marino+Oliveros+Blanco&repeat=false&height=40" alt="Name" />
-  <br>
+ 
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Computer+Science+%26+AI+Student&repeat=false&height=40" alt="Title" />
-  <br>
+
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=Researcher+at+CVC+%7C+Exchange+at+Kyoto+University&repeat=false&height=40" alt="Work" />
 </div>
 
