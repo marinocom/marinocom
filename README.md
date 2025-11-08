@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Marino+Oliveros+Blanco&repeat=false&height=25" alt="Name" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=BSc+AI+-+Universitat+Aut%C3%B2noma+de+Barcelona&repeat=false&height=25" alt="Title" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=Research+at+Computer+Vision+Center&repeat=false&height=25" alt="Research" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Exchange+Student+at+Kyoto+University&repeat=false&height=25" alt="Exchange" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Marino+Oliveros+Blanco&repeat=false&height=25" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=BSc+AI+-+Universitat+Aut%C3%B2noma+de+Barcelona&repeat=false&height=25" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Research+at+Computer+Vision+Center&repeat=false&height=25" alt="Research" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=90EE90&center=true&vCenter=true&width=600&lines=Exchange+Student+at+Kyoto+University&repeat=false&height=25" alt="Exchange" />
 </div>
-<br>
-
 <br>
 
 <div align="center" style="width: 600px; margin: 0 auto;">
