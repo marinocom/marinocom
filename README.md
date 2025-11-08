@@ -11,9 +11,5 @@ AI Student - Researcher at CVC
 </div>
 
 <div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/marinocom?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30" alt="3D Contribution"/>
-</div>
-
-<div align="center">
-  <img src="https://skyline.github.com/marinocom/2024.png" alt="GitHub Skyline" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/marinocom?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.2&animation_amplitude=12&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30" alt="3D Contribution"/>
 </div>
