@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=Researcher+at+CVC+%7C+Exchange+at+Kyoto+University&repeat=false&height=25" alt="Work" />
 </div>
 
+<br>
 
 <div align="center" style="width: 600px; margin: 0 auto;">
   <p>🔬 AI Research | 🧠 Machine Learning | 🔐 Cryptography</h3>
