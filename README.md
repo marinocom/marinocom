@@ -8,17 +8,21 @@
 <br>
 <br>
 
-<div align="center" style="width: 400px; margin: 0 auto;">
-  <p>Researching direct handwritten cipher decryption as part of the DECRYPT project</p>
-  <p>Worked on early neonatal sepsis detection using thermal imaging & computer vision</p>
-  <p>Rosa Sensat talent scholarship recipient for research at the Computer Vision Center</p>
-  <p>Co-founder of UAB THE HACK!, the first hackathon at UAB - 4 editions and going strong</p>
-  <p>Developing How Much for A Cup of Joe? - A coffee price tracker extension for Google Maps</p>
-  <p>In the works of some yet undisclosed modern floriography projects</p>
-  <p>Currently an exchange student at Kyoto University</p>
-  <p>-----------------------------------------------------------------------------------</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        🔐 Researching direct handwritten cipher decryption as part of the DECRYPT project<br>
+        🏥 Worked on early sepsis detection in babies using thermal imaging & computer vision<br>
+        🎓 Rosa Sensat talent scholarship recipient for research at the Computer Vision Center<br>
+        💻 Co-founder of UAB THE HACK!, the first hackathon at UAB - 4 editions and going strong<br>
+        ☕ Developing "How Much for A Cup of Joe?" - A coffee price tracker extension for Google Maps<br>
+        🇯🇵 Currently an exchange student at Kyoto University, looking forward to conducting research<br>
+        🌸 In the works of some yet undisclosed modern floriography projects
+      </td>
+    </tr>
+  </table>
 </div>
-
 <br>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?font=Courier" alt="Jokes Card" width="600" />
