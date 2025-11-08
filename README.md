@@ -12,13 +12,13 @@
   <table>
     <tr>
       <td>
-        > Researching direct handwritten cipher decryption as part of the DECRYPT project<br>
-        > Worked on early sepsis detection in babies using thermal imaging & computer vision<br>
-        > Rosa Sensat talent scholarship recipient for research at the Computer Vision Center<br>
-        > Co-founder of UAB THE HACK!, the first hackathon at UAB - 4 editions and going strong<br>
-        > Developing "How Much for A Cup of Joe?" - A coffee price tracker extension for Google Maps<br>
-        > Currently an exchange student at Kyoto University, looking forward to conducting research<br>
-        > In the works of some yet undisclosed modern floriography projects
+        [#] Researching direct handwritten cipher decryption as part of the DECRYPT project<br>
+        [+] Worked on early sepsis detection in babies using thermal imaging & computer vision<br>
+        [*] Rosa Sensat talent scholarship recipient for research at the Computer Vision Center<br>
+        [~] Co-founder of UAB THE HACK!, the first hackathon at UAB - 4 editions and going strong<br>
+        [$] Developing "How Much for A Cup of Joe?" - A coffee price tracker extension for Google Maps<br>
+        [@] Currently an exchange student at Kyoto University, looking forward to conducting research<br>
+        [?] In the works of some yet undisclosed modern floriography projects
       </td>
     </tr>
   </table>
