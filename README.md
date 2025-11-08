@@ -23,12 +23,10 @@
 <div align="center">
   <h4 style="margin-bottom: 0px;">Research Interests</h4>
   <p style="margin-top: 0;">
-    <code>Cryptanalysis</code>
-    <code>Computer Vision</code>
-    <code>Graph Neural Networks</code>
-    <br>
-    <code>Natural Language Processing</code>
+    <code>Cipher Decryption</code>
     <code>Medical Imaging</code>
+    <code>Graph Neural Networks</code>
+    <code>Representation Learning</code>
     <code>AI Policy</code>
   </p>
 </div>
