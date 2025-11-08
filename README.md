@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<div align="center" style="width: 600px; margin: 0 auto;">
+<div align="center" style="width: 400px; margin: 0 auto;">
   <p>Researching direct handwritten cipher decryption using neural networks as part of the DECRYPT project</p>
   <p>Worked on early sepsis detection on babies using thermal imaging and computer vision</p>
   <p>Rosa Sensat talent scholarship recipient for my research at the Computer Vision Center</p>
@@ -17,6 +17,7 @@
   <p>-----------------------------------------------------------------------------------</p>
 </div>
 
+<br>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?font=Courier" alt="Jokes Card" width="600" />
 </div>
