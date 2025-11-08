@@ -24,26 +24,18 @@
 </div>
 
 
-<br>
-
 <div align="center">
-  <h3>Research Interests</h3>
-  <table>
-    <tr>
-      <td width="500">
-        <p align="center">
-          <code>Cryptanalysis</code>
-          <code>Computer Vision</code>
-          <code>Graph Neural Networks</code>
-          <code>Natural Language Processing</code>
-          <code>Medical Imaging</code>
-          <code>AI Policy</code>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <h4>Research Interests</h4>
+  <p>
+    <code>Cryptanalysis</code>
+    <code>Computer Vision</code>
+    <code>Graph Neural Networks</code>
+    <br>
+    <code>Natural Language Processing</code>
+    <code>Medical Imaging</code>
+    <code>AI Policy</code>
+  </p>
 </div>
-
 <br>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?font=Courier" alt="Jokes Card" width="600" />
