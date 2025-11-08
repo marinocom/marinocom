@@ -26,7 +26,9 @@
     <code>Cipher Decryption</code>
     <code>Medical Imaging</code>
     <code>Graph Neural Networks</code>
-    <code>Representation Learning</code>
+    <br>
+    <code>Document Analysis</code>
+    <code>Representation Learning on Graphs</code>
     <code>AI Policy</code>
   </p>
 </div>
