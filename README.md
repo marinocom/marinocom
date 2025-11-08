@@ -21,7 +21,7 @@
     <a href="mailto:YOUR_EMAIL@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://huggingface.co/YOUR_HF_USERNAME">
+    <a href="https://huggingface.co/nahhhhhhh">
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace" />
     </a>
   </p>
