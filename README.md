@@ -7,7 +7,6 @@
 
 <br>
 
-
 <div align="center">
   <table>
     <tr>
@@ -27,7 +26,7 @@
 <br>
 
 <div align="center">
-  <h3>🔍 Research Interests</h3>
+  <h4>*Research Interests*</h4>
   <p>
     <code>Cryptography</code>
     <code>Computer Vision</code>
