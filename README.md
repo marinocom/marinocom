@@ -4,13 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Research+at+Computer+Vision+Center&repeat=false&height=25" alt="Research" />
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=9ACD32&center=true&vCenter=true&width=600&lines=Exchange+Student+at+Kyoto+University&repeat=false&height=25" alt="Exchange" />
 </div>
-
 <br>
-
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td style="font-family: 'Courier New', Courier, monospace;">
         > Researching direct handwritten cipher decryption as part of the DECRYPT project<br>
         > Worked on early sepsis detection in babies using thermal imaging & computer vision<br>
         > Rosa Sensat talent scholarship recipient for research at the Computer Vision Center<br>
@@ -22,11 +20,9 @@
     </tr>
   </table>
 </div>
-
-
 <div align="center">
-  <h4 style="margin-bottom: 0px;">Research Interests</h4>
-  <p style="margin-top: 0;">
+  <h4 style="margin-bottom: 0px; font-family: 'Courier New', Courier, monospace;">Research Interests</h4>
+  <p style="margin-top: 0; font-family: 'Courier New', Courier, monospace;">
     <code>Cryptanalysis</code>
     <code>Computer Vision</code>
     <code>Graph Neural Networks</code>
@@ -37,11 +33,9 @@
   </p>
 </div>
 <br>
-
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?font=Courier" alt="Jokes Card" width="600" />
 </div>
-
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/marino-o-3a6b171b9">
