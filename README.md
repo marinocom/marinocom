@@ -3,9 +3,9 @@
 </div>
 
 <div align="center" style="width: 600px; margin: 0 auto;">
-  <h3>🔬 AI Research | 🧠 Machine Learning | 🔐 Cryptography</h3>
+  <p>🔬 AI Research | 🧠 Machine Learning | 🔐 Cryptography</h3>
   <p>Final-year CS/AI student at UAB conducting research on handwritten cipher decryption at CVC</p>
-  <p>Currently on exchange at Kyoto University researching Representation Learning</p>
+  <p></p>
 </div>
 
 <div align="center">
