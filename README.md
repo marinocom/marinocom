@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <h3 style="margin-bottom: 0px;">Research Interests</h3>
+  <h4 style="margin-bottom: 0px;">Research Interests</h4>
   <p style="margin-top: 0;">
     <code>Cryptanalysis</code>
     <code>Computer Vision</code>
@@ -44,14 +44,14 @@
 
 <div align="center">
   <p>
-    <a href="www.linkedin.com/in/marino-o-3a6b171b9">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/marino-o-3a6b171b9">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:marino.oliverosblanco@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://huggingface.co/nahhhhhhh">
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000" alt="HuggingFace" />
     </a>
   </p>
 </div>
