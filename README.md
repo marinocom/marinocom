@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Marino+Oliveros+Blanco&repeat=false&height=25&size=32" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Marino+Oliveros+Blanco&repeat=false&height=32&size=30" alt="Name" />
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=FFB347&center=true&vCenter=true&width=600&lines=BSc+AI+-+Universitat+Aut%C3%B2noma+de+Barcelona&repeat=false&height=25" alt="Title" />
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Research+at+Computer+Vision+Center&repeat=false&height=25" alt="Research" />
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=9ACD32&center=true&vCenter=true&width=600&lines=Exchange+Student+at+Kyoto+University&repeat=false&height=25" alt="Exchange" />
