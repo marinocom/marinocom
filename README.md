@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <h3>» Research Interests</h3>
+  <h3>>Research Interests</h3>
   <p>
     <code>Cipher Decryption</code>
     <code>Medical Imaging</code>
