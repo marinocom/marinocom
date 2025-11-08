@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Marino+Oliveros+Blanco&repeat=false&height=25" alt="Name" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=1400&lines=BSc+Artificial+Intelligence+%7C+Universitat Autònoma de Barcelona&repeat=false&height=25" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=1400&lines=BSc+Artificial+Intelligence+%7C+Universitat Autonoma de Barcelona&repeat=false&height=25" alt="Title" />
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&pause=1200&color=50C878&center=true&vCenter=true&width=1000&lines=Research+%40+Computer Vision Center+%7C+Kyoto+University&repeat=false&height=25" alt="Work" />
 </div>
 <br>
