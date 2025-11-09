@@ -10,7 +10,7 @@
     <tr>
       <td>
         > Researching direct handwritten cipher decryption as part of the DECRYPT project<br>
-        > Worked on early neonatal sepsis detection using thermal imaging & computer vision<br>
+        > Worked on early neonatal sepsis detection using thermal imaging w/University Hospital Patras<br>
         > Rosa Sensat talent scholarship recipient for research at the Computer Vision Center<br>
         > Co-founder of UAB THE HACK!, the first hackathon at UAB - 4 editions and going strong<br>
         > Developing "How Much for A Cup of Joe?" - A coffee price tracker extension for Google Maps<br>
