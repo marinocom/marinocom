@@ -13,9 +13,10 @@
         > Worked on early neonatal sepsis detection using thermal imaging w/University Hospital Patras<br>
         > Rosa Sensat talent scholarship recipient for research at the Computer Vision Center<br>
         > Co-founder of UAB THE HACK!, the first hackathon at UAB - 4 editions and going strong<br>
-        > Developing "How Much for A Cup of Joe?" - A coffee price tracker extension for Google Maps<br>
-        > Currently an exchange student at Kyoto University, looking forward to conducting research<br>
+        > Developed "How Much for A Cup of Joe?" - A coffee price tracker extension for Google Maps<br>
+        > Currently an exchange student at Kyoto University, conducting research on VLM mapping<br>
         > In the works of some yet undisclosed modern floriography projects
+        > Game Developer God of Stackers
       </td>
     </tr>
   </table>
