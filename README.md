@@ -15,8 +15,8 @@
         > Co-founder of UAB THE HACK!, the first hackathon at UAB - 4 editions and going strong<br>
         > Developed "How Much for A Cup of Joe?" - A coffee price tracker extension for Google Maps<br>
         > Currently an exchange student at Kyoto University, conducting research on VLM mapping<br>
-        > In the works of some yet undisclosed modern floriography projects
-        > Game Developer God of Stackers
+        > Game Developer God of Stackers<br>
+        > In the works of some yet undisclosed modern floriography projects 
       </td>
     </tr>
   </table>
