@@ -16,7 +16,6 @@
         > Developed "How Much for A Cup of Joe?" - A coffee price tracker extension for Google Maps<br>
         > Currently an exchange student at Kyoto University, conducting research on VLM mapping<br>
         > Game Developer God of Stackers<br>
-        > In the works of some yet undisclosed modern floriography projects 
       </td>
     </tr>
   </table>
